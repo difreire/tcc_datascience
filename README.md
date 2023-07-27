@@ -1,14 +1,14 @@
-## Projeto de Data Science - TCC PUC Minas 2021
-# Introdução
+# Projeto de Data Science - TCC PUC Minas 2021
+## Introdução
 Este é o repositório do projeto de Data Science desenvolvido como Trabalho de Conclusão de Curso (TCC) na PUC Minas em 2021 por Diógenes Pinheiro Murta Freire. O projeto teve como objetivo explorar e aplicar técnicas de Data Science para a análise de criptomoedas, em particular o Bitcoin, utilizando algoritmos de machine learning para previsão e classificação de movimentos do mercado.
 
 ## Estrutura do Projeto
 O projeto está organizado da seguinte forma:
 
-data: Contém os dados utilizados no projeto, obtidos através da API Yahoo Finance e do site investing.com.br.
-notebooks: Contém os Jupyter Notebooks utilizados para a exploração de dados, treinamento dos modelos e análise dos resultados.
-src: Contém os códigos-fonte dos modelos de machine learning e das funções auxiliares.
-docs: Contém a documentação do projeto, incluindo este arquivo README.
+#### data: Contém os dados utilizados no projeto, obtidos através da API Yahoo Finance e do site investing.com.br.
+#### notebooks: Contém os Jupyter Notebooks utilizados para a exploração de dados, treinamento dos modelos e análise dos resultados.
+#### src: Contém os códigos-fonte dos modelos de machine learning e das funções auxiliares.
+#### docs: Contém a documentação do projeto, incluindo este arquivo README.
 
 ## Objetivos do Projeto
 Os principais objetivos do projeto foram:
