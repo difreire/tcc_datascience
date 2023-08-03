@@ -20,7 +20,7 @@ Os principais objetivos do projeto foram:
 Para reproduzir os resultados e explorar o projeto, siga os passos abaixo:
 
 #### 1 - Clone este repositório para o seu ambiente local.
-#### 2 - Certifique-se de ter todas as dependências necessárias instaladas. As principais dependências são listadas no arquivo requirements.txt.
+#### 2 - Certifique-se de ter todas as dependências necessárias instaladas. 
 #### 3 - Utilize os Jupyter Notebooks na pasta notebooks para explorar os dados, treinar os modelos e analisar os resultados.
 #### 4 - Os dados utilizados no projeto estão disponíveis na pasta data. Caso deseje utilizar outros dados, substitua os arquivos existentes por seus próprios dados.
 #### 5 - O código-fonte dos modelos de machine learning está na pasta src. Caso queira modificar ou adaptar os modelos, basta acessar os respectivos arquivos.
